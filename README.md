@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desofy-source
 - 👀 I’m interested in: web development, and python app development
-- 🌱 I’m currently learning: java
+- 🌱 I’m currently learning: assembly
 - 💞️ I’m looking to collaborate on: not anything at the moment
 
 <!---
